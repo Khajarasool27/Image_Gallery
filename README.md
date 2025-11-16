@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## DATE:10/11/2025
+## DATE: 10/11/2025
 ## AIM
   To design a web application for an inteactive image gallery with minimum five images.
 
@@ -161,6 +161,7 @@ lightbox.addEventListener('click', (e) => {
   }
 });
 ```
+
 ## OUTPUT
 ![alt text](image.png)
 ![alt text](image-6.png)
@@ -168,5 +169,7 @@ lightbox.addEventListener('click', (e) => {
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
